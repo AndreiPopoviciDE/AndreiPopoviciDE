@@ -1,4 +1,4 @@
-👨‍💻 About Me: Experienced Full Stack Developer (5 years) specialized in the modern JavaScript stack. I have production experience with React, Vue.js, and Angular. On the backend, I worked with Node.js and AWS. I also have experience with Low Code and No Code platforms and the various third-party services they use.
+👨‍💻 About Me: Experienced Full Stack Developer (7 years) specialized in the modern JavaScript stack. I have production experience with React, Vue.js, and Angular. On the backend, I worked with Node.js and AWS. I also have experience with Low Code and No Code platforms and the various third-party services they use.
 
 💻 Programming Languages: JavaScript, TypeScript
 
