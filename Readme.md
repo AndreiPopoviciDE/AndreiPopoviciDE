@@ -2,7 +2,7 @@
 
 💻 Programming Languages: JavaScript, TypeScript
 
-🔧 Technologies & Tools: Angular, React, Vue.js, Redux.js, Node.js, Express.js, Mongoose, Pinia, Jest, Vitest, Babel, npm, Webpack, REST APIs, HTML, CSS, JSON, HCL Domino Leap, Lighthouse, Postman API, AI Coding Tools (ChatGPT)
+🔧 Technologies & Tools: Angular, React, Vue.js, Redux.js, Node.js, Express.js, Mongoose, Pinia, Jest, Vitest, Babel, npm, Webpack, REST APIs, HTML, CSS, JSON, HCL Domino Leap, Lighthouse, Postman API
 
 ☁️ Cloud: CI/CD, Git, GitLab, AWS Lambda, AWS S3, AWS EC2, CDNs, Docker
 
